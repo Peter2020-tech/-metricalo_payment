@@ -1,1 +1,8 @@
+### Key sections to edit:
+- Replace `paynow` database with your actual database name.
+- Replace the example endpoint/CLI command parameters with your real values if they change.
+- If you implement tests, Docker, or additional features, add them to the README as necessary.
+
+Let me know if you'd like to modify or expand any sections!
+
 
